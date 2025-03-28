@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm [Your Name]!</h1>
+<h1 align="center">👋 Hey there, I'm Amegh!</h1>
 <p align="center">
   🐍 Python & Django Enthusiast | 🌱 Always Learning | ⚡ Exploring Tech  
 </p>
