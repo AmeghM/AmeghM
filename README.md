@@ -8,7 +8,7 @@
 ### 🚀 About Me  
 - 🖥️ Learning **Python & Django**  
 - 🔨 Building small projects & experimenting with code  
-- 🎯 2024 Goal: **Get better at Python & contribute to open-source**  
+- 🎯 2025 Goal: **Get better  & contribute to open-source**  
 - 💬 Always open to discussions & learning new things!  
 
 ---
