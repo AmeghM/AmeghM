@@ -1,36 +1,41 @@
 <h1 align="center">👋 Hey there, I'm Amegh!</h1>
 <p align="center">
-  🐍 Python & Django Enthusiast | 🌱 Always Learning | ⚡ Exploring Tech  
+  🎓 MERN Stack Intern Student | 💻 Aspiring Full-Stack Developer | 💡 Passionate Coder
 </p>
 
 ---
 
-### 🚀 About Me  
-- 🖥️ Learning **Python & Django**  
-- 🔨 Building small projects & experimenting with code  
-- 🎯 2025 Goal: **Get better  & contribute to open-source**  
-- 💬 Always open to discussions & learning new things!  
+### 🚀 About Me  
+- 🖥️ Currently immersed in the **MERN Stack** as an intern student.
+- 🔨 Focused on mastering front-end development and actively transitioning to the backend.
+- 🎯 Next Focus: **Node.js and Express** to become a complete full-stack developer by **2025**.
+- 🌱 Building practical projects to solidify my understanding of the MERN ecosystem.
+- 💬 Always open to discussions, collaborations, and learning new things!  
 
 ---
 
-### 🛠️ Tech Stack  
+### 🛠️ Tech Stack Learned (So Far!)
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+### 📈 My GitHub Progress  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=vue" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=vue" height="150" alt="GitHub Streak" />
 </p>
+<p align="center">
+    </p>
 
 ---
 
-### 📫 Connect With Me  
+### 📫 Connect With Me  
 <p align="center">
-
-</p>
+    </p>
